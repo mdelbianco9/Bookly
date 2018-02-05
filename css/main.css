@@ -1,0 +1,106 @@
+
+/*HTML created elements*/
+
+
+.box {
+	height: 11em;
+	background-color: #343434;
+	text-align: center;
+	
+}
+
+.search {
+	padding-top: 3em;
+	width: 100%;
+}
+
+#book-search {
+	width: 50%;
+	/*height: 50px;*/
+	margin: auto;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 1.5em;
+
+}
+
+.btn {
+	background-image: none;
+	background-color:#71d0a6;
+	margin-top: 1em; 
+}
+
+h1 {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	font-size: 100px;
+	margin-top: 2em;
+	color: lightgrey;
+	font-weight: thin;
+}
+
+
+
+/*JS created Element boxes*/
+
+.book_box {
+	border: 3px solid white;
+	background-color: #f4f6f7;
+	height: 30em;
+	overflow: scroll;
+	padding: 1em;
+}
+
+.book_box:hover {
+	background-color: #fbfbfb;
+}
+
+.book_img {
+	display: inline-block;
+	box-shadow: 5px 5px 2.5px #555555;
+	margin-top: 1em;
+	margin-bottom: .5em;
+}
+
+.book_img:hover {
+	box-shadow: 7px 7px 3px #777777;
+}
+
+.book_info {
+	display: inline-block;
+	
+}
+
+.last {
+	margin-bottom: 2em;
+
+}
+
+.book_info h3, h4 {
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	color: grey;
+}
+
+.book_info h2 {
+	color: #71d0a6;
+	font-weight: 300;
+}
+
+
+p {
+	display: inline-block;
+	color: grey;
+	margin-top: 1em;
+	padding: .5em;
+	/*text-indent: 1.6em;*/
+	text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+	
